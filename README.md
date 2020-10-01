@@ -1,1 +1,4 @@
-# Kon-Tool
+- pkg update && upgrade
+- pkg install git
+- git clone
+- cd Kon-Tool.sh
