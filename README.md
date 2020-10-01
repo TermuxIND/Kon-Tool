@@ -1,4 +1,4 @@
 - pkg update && upgrade
 - pkg install git
-- git clone
+- git clone https://github.com/TermuxIND/Kon-Tool
 - cd Kon-Tool.sh
