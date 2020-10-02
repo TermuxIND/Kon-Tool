@@ -1,5 +1,6 @@
-- pkg update && upgrade
-- pkg install git
-- git clone https://github.com/TermuxIND/TermuxIND
-- cd TermuxIND
-
+Tools Multi Fungsi
+- Dump Moonton
+- Check Moonton
+- Dark FB
+- Dark FB no login
+- spam sms
