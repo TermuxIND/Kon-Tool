@@ -1,10 +1,13 @@
+Cara update Tools
+ketik: git pull lalu enter
+
 Tools Multi Fungsi
 - Dump Moonton
 - Check Moonton
 - Dark FB
 - Dark FB no login
 - spam sms
-
+- loli + bot wa
 cara pemasangan
 - apt update && apt upgrade
 - pkg install python
