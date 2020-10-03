@@ -1,5 +1,7 @@
 Cara update Tools
-ketik: git pull lalu enter
+ketik: 
+- git pull
+(Kemudian enter)
 
 Tools Multi Fungsi
 - Dump Moonton
